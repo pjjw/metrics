@@ -14,6 +14,7 @@
         <module>metrics-ehcache</module>
         <module>metrics-ganglia</module>
         <module>metrics-graphite</module>
+        <module>metrics-opentsdb</module>
         <module>metrics-guice</module>
         <module>metrics-httpclient</module>
         <module>metrics-jetty</module>
